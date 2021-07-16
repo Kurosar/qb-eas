@@ -1,5 +1,5 @@
 # eas-fivem ported to QB (qb-eas)
-The Emergency Alert System in FiveM.
+The Emergency Alert System in FiveM.  
 Original idea from DevLanceGood (https://github.com/DevLanceGood/eas-fivem)
 
 Fixed and reworked by Sakarias in 2021.
