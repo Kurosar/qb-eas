@@ -11,7 +11,7 @@ INSTALLATION
 - Replace the steamID in server_config.lua with your steam ID64 (Convert from HEX to DEC)
 ```
 
-You can also use ACE Permissions by doing the following : 
+You can also use ACE Permissions by adding the following in your server.cfg : 
 > add_ace group.admin lance.eas allow
 
 ```
