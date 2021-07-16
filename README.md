@@ -14,12 +14,7 @@ INSTALLATION
 You can also use ACE Permissions by doing the following : 
 > add_ace group.admin lance.eas allow
 
-```
-USAGE
 To use, simply type /eas-lspd or /eas-lsfd in chat, followed by your message, example : 
-/eas-lspd Tornado warning, seek shelter immediately !
-```
-
 ```
 CHANGELOG
 2021-07-17 Initial commit
