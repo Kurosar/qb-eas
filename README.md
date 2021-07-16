@@ -19,6 +19,9 @@ USAGE
 To use, simply type /eas-lspd or /eas-lsfd in chat, followed by your message, example : 
 /eas-lspd Tornado warning, seek shelter immediately !
 ```
+VIDEO DEMO : https://streamable.com/4ocmp2
+![image](https://user-images.githubusercontent.com/4887819/126018607-77e2d0f2-829a-4d95-b0f8-88e32e2f78b5.png)
+
 
 ```
 CHANGELOG
