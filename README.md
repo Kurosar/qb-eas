@@ -2,7 +2,7 @@
 The Emergency Alert System in FiveM.  
 Original idea from DevLanceGood (https://github.com/DevLanceGood/eas-fivem)
 
-Fixed and reworked by Sakarias in 2021.
+Fixed and reworked by Kurøsår in 2021.
 
 ```
 INSTALLATION
