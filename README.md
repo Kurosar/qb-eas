@@ -8,7 +8,7 @@ Fixed and reworked by Kurøsår in 2021.
 INSTALLATION
 - Drag and drop the folder qb-eas to your server's resource folder
 - Add "ensure qb-eas" to your server.cfg
-- Replace the steamID in server_config.lua with your steam ID64 (Convert from HEX to DEC)
+- Replace the steamID in server_config.lua with your steam ID64 (Convert from DEC to HEX)
 ```
 
 You can also use ACE Permissions by adding the following in your server.cfg : 
